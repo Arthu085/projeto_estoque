@@ -1,1 +1,4 @@
 /.venv
+
+/connection_sql.py
+__pycache__/connection_sql.cpython-311.pyc
